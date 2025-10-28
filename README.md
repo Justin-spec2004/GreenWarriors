@@ -1,5 +1,6 @@
 == Cấu trúc thư mục (và vai trò)
 
+```
 lib/
 ├── main.dart
 ├── screens/ # 💻 Các màn hình chính (UI pages)
@@ -42,8 +43,7 @@ assets/
 ├── icons/ # 🔣 Icon SVG / PNG
 └── fonts/ # ✍️ Font chữ tùy chỉnh
 
-yaml
-Sao chép mã
+```
 
 ---
 
